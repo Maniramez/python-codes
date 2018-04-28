@@ -1,0 +1,6 @@
+N=int(input("enter the value"))
+A=int(input("enter the value"))
+D=int(input("enter the value"))
+OUTPUT=(N*((2*A)+((N-1)*D))/2)
+print("OUTPUT")
+print(OUTPUT)
